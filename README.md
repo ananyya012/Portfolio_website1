@@ -2,20 +2,25 @@
 
 ## Table of Contents
 
-⭐- [Introduction](#introduction)
+⭐- [Introduction](#introduction)  
+
 ⭐- [Features](#features)
+
 ⭐- [Technologies Used](#technologies-used)
+
 ⭐- [Installation](#installation)
+
 ⭐- [Usage](#usage)
-⭐- [Contributing](#contributing)
+
 ⭐- [License](#license)
+
 ⭐- [Contact](#contact)
 
 ## Introduction
 
 Welcome to my Portfolio Website! This site showcases my professional work, skills, and projects. It's designed to give potential employers, clients, and collaborators an overview of what I do and how I can contribute to their projects.
 
-💡## Features
+ ## Features
 
 - **About Me**: A brief introduction and summary of my background, skills, and experience.
 - **Portfolio**: A showcase of my projects with descriptions, images, and links to live demos or repositories.
@@ -23,7 +28,7 @@ Welcome to my Portfolio Website! This site showcases my professional work, skill
 - **Contact Form**: A simple form to get in touch with me for potential collaborations or job opportunities.
 - **Responsive Design**: The website is accessible and looks great on all devices, from desktops to mobile phones.
 
-💡## Technologies Used
+## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Hosting**: GitHub Pages, Netlify.
@@ -54,14 +59,14 @@ To set up the project locally, follow these steps:
 
    The application should now be running on `http://localhost:3000`.
 
-💡## Usage
+## Usage
 
 1. **Browse the Portfolio**: Navigate through the different sections to learn more about me and my work.
 2. **View Projects**: Click on the projects to see detailed descriptions, images, and links.
 3. **Contact Me**: Use the contact form to send me a message.
 
 
-💡## License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
