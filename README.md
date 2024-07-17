@@ -1,4 +1,7 @@
 # Portfolio Website README
+<div>
+  <img src="Screenshot 2024-07-17 171850.png">
+</div>
 
 ## Table of Contents
 
