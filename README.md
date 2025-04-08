@@ -1,6 +1,6 @@
 # Portfolio Website README
 <div>
-  <img src="https://github.com/ananyaa012/Portfolio_website1/blob/main/Portfolio1/images/Screenshot%202024-07-17%20174217.png">
+  <img src="https://github.com/ananyya012/Portfolio_website1/blob/main/Portfolio1/images/Screenshot%202024-07-17%20174217.png">
 </div>
 
 ## Table of Contents
@@ -42,7 +42,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/ananyaa012/portfolio-website.git
+   git clone https://github.com/ananyya012/portfolio-website.git
    ```
 
 2. **Navigate to the project directory**:
